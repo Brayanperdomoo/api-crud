@@ -31,3 +31,5 @@ app.delete('/usuarios/:id', (req, res) => {
 app.listen(3000, () => {
     console.log("Servidor corriendo en http://localhost:3000");
 });
+
+// prueba actions// prueba actions 2
